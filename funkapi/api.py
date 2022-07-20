@@ -1,7 +1,7 @@
 import boto3
 import requests
 import datetime
-from warrant.aws_srp import AWSSRP
+from pycognito.aws_srp import AWSSRP
 
 from funkapi.graphql_schema import schema
 
